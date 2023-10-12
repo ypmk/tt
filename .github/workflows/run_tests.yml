@@ -11,7 +11,7 @@ jobs:
         steps:
         -   name: Checkout repository
             uses: actions/checkout@v3
-        -   name: setup Cpp
-            uses: actions/setup-cpp@v4
+        -   name: Run tests
+            run: test.cpp
            
             
