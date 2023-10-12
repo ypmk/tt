@@ -1,0 +1,14 @@
+﻿  functions.cpp
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(72,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(88,14): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(120,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(150,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(305,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(338,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(394,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(414,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(442,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\Lisa\Desktop\2048\2048_game_2023\functions.cpp(459,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  test.cpp
+  Generating Code...
+  tests.vcxproj -> C:\Users\Lisa\Desktop\2048\x64\Debug\tests.exe
